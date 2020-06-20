@@ -1,5 +1,13 @@
-REQUIRED:
+REQUIRED DEPENDENCIES:
+graphviz
+six
+scikit-learn
+matplotlib
+pydotplus
 
-pip install scikit-learn==0.22
+COMMANDS RUN:
+sudo apt install graphviz
+pip install six
+pip install scikit-learn
 python3 -m pip install -U matplotlib
 pip install pydotplus
