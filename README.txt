@@ -1,3 +1,5 @@
+Enjoy UVic students :) Hopefully this encourages your profs to write new assignments.
+
 REQUIRED DEPENDENCIES:
 graphviz
 six
